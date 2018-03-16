@@ -1,7 +1,7 @@
 # Barkwire API
 
 ## Setup
-nom install
+npm install
 
 ## Usage
 npm start
